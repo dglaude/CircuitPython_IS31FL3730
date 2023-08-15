@@ -2,5 +2,3 @@
 # SPDX-FileCopyrightText: Copyright (c) 2023 David Glaude
 #
 # SPDX-License-Identifier: MIT
-
-
